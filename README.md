@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RyanAngus
 - 👀 I’m interested in ...coding, chess, coffee, and music
-- 🌱 I’m currently learning ...javascript and reviewing & practicing html/css
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...React and Node.js
 - 📫 How to reach me ...@angusryan on Twitter
 
 <!---
